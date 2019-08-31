@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9dbd1c42-6e8b-4592-a456-6a54294f2a33" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9dbd1c42-6e8b-4592-a456-6a54294f2a33" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +12,7 @@
     <session id="746204166">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -51,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ireasoningInstall.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="210">
+              <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -61,6 +58,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ireasoningInstall.py" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -169,8 +173,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ireasoningInstall.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="210">
+          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
         </state>
       </provider>
     </entry>
